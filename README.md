@@ -30,4 +30,4 @@ outside of the field. Each time he chooses a direction we update the map by sett
 the new player's position and replacing the last one by an empty space.<br />
 
 ###### Et voilà.
-()[]
+![alt "screenshot"](https://raw.githubusercontent.com/imhassane/console-labyrinth/master/screenshot.png)
